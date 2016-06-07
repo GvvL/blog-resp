@@ -3,12 +3,21 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: blog
 subtitle:
-description:
-author: John Doe
-language:
+description: 颤抖吧~
+author: 默罕默德·甜不辣
+language: zh-Hans
 timezone:
+avatar: /images/avatar.png
+duoshuo_shortname: gvvl
+baidu_analytics: 6668287b21be5a6e3dc680de8a7d9f30
+# JiaThis 分享服务
+jiathis: true
+# swiftype_key: kHx5skhv-mFfhLzxGh33
+search:
+  path: search.xml
+  field: post
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -63,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
